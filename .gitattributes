@@ -1,0 +1,2 @@
+output/nvt_traj.dcd filter=lfs diff=lfs merge=lfs -text
+output/prod.dcd filter=lfs diff=lfs merge=lfs -text
