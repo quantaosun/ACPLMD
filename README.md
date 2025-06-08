@@ -1,9 +1,8 @@
 ## A consise Protein-ligand Moelcular Dynamic Simulation Workflow
 
-It is another workfolw for a normal protein-ligand simulation, try to keep it simple. 
-
-The idea is try to use as less packages as possible.
-
+<a target="_blank" href="https://colab.research.google.com/github/quantaosun/ACPLMD/blob/main/notebook/A_consise_Protein_ligand_Moelcular_Dynamic_Simulation_Workflow.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 * Core MD Engine  
   - `openmm` (GPU-accelerated MD)  
