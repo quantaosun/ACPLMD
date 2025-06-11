@@ -36,3 +36,9 @@ animate write dcd prod_wrapped.dcd
 Load the `prod_final.pdb` and `prod_wrapped.dcd` to pymol should be fine.
 
 
+Publications
+If you use OpenMM for scientific research, please cite it.
+
+Primary Publication:
+
+Peter Eastman, Raimondas Galvelis, Raúl P. Peláez, Charlles R. A. Abreu, Stephen E. Farr, Emilio Gallicchio, Anton Gorenko, Michael M. Henry, Frank Hu, Jing Huang, Andreas Krämer, Julien Michel, Joshua A. Mitchell, Vijay S. Pande, João PGLM Rodrigues, Jaime Rodriguez-Guerra, Andrew C. Simmonett, Sukrit Singh, Jason Swails, Philip Turner, Yuanqing Wang, Ivy Zhang, John D. Chodera, Gianni De Fabritiis, and Thomas E. Markland. "OpenMM 8: Molecular Dynamics Simulation with Machine Learning Potentials." J. Phys. Chem. B 128(1), pp. 109-116 (2023). DOI: 10.1021/acs.jpcb.3c06662
